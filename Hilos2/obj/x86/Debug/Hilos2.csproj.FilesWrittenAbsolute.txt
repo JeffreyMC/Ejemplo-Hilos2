@@ -1,0 +1,5 @@
+/home/jeff/Documents/CSharp/Hilos2/Hilos2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/Documents/CSharp/Hilos2/Hilos2/bin/Debug/Hilos2.exe.mdb
+/home/jeff/Documents/CSharp/Hilos2/Hilos2/bin/Debug/Hilos2.exe
+/home/jeff/Documents/CSharp/Hilos2/Hilos2/obj/x86/Debug/Hilos2.exe
+/home/jeff/Documents/CSharp/Hilos2/Hilos2/obj/x86/Debug/Hilos2.exe.mdb

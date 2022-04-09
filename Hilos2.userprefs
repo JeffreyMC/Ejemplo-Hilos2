@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Hilos2/Hilos2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hilos2/Program.cs">
+    <Files>
+      <File FileName="Hilos2/Program.cs" Line="25" Column="22" />
+      <File FileName="Hilos2/Properties/Impresora.cs" Line="24" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
